@@ -14,8 +14,8 @@ Lalu Klik Run <P>
 ![gambar 2](screenshot/ss2.png.png) <p>
 Berikut hasil <p>
 3. Latihan3.py <p>
-                                            Nama FILE: FOR_;LOOP1.py 
-                                         PROGRAM MENCETAK ANGKA DARI 1 s/d 10 
+                                            Nama FILE: FOR_;LOOP1.py <P>
+                                         PROGRAM MENCETAK ANGKA DARI 1 s/d 10 <P> 
 (BERIKUT CODINGANNYA) <p>
 Lalu Klik Run <p> 
 ![gambar 3](screenshot/ss3.png.png) <p>
