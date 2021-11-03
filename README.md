@@ -1,4 +1,4 @@
-                                        LATIHAN MEMBUAT PROGRAM SEDERHANA
+                                          LATIHAN MEMBUAT PROGRAM SEDERHANA
                                             LANGKAH LANGKAH MEMPROGRAMNYA
 Menggunkan Aplikasi Pychram <p>
 1. latihan1.py <p>
@@ -13,7 +13,7 @@ Tugas Kita Adalah Mengurutkan Data Yang Ada Pada Array List Variabel Luas Dari U
 Lalu Klik Run <P>
 ![gambar 2](screenshot/ss2.png.png) <p>
 Berikut hasil <p>
-3. Latihan3.py
+3. Latihan3.py <p>
                                             Nama file: for_loop1.py <p>
                                         Program mencetak angka 1 s/d 10 <p>
 (BERIKUT CODINGANNYA) <p>
