@@ -1,5 +1,5 @@
-                                # LATIHAN MEMBUAT PROGRAM SEDERHANA
-                                # LANGKAH LANGKAH MEMPROGRAMNYA
+                                        LATIHAN MEMBUAT PROGRAM SEDERHANA
+                                            LANGKAH LANGKAH MEMPROGRAMNYA
 Menggunkan Aplikasi Pychram <p>
 1. latihan1.py <p>
 (BERIKUT CODINGANNYA) <p>
@@ -14,8 +14,8 @@ Lalu Klik Run <P>
 ![gambar 2](screenshot/ss2.png.png) <p>
 Berikut hasil <p>
 3. Latihan3.py
-            Nama file: for_loop1.py <p>
-        Program mencetak angka 1 s/d 10 <p>
+                                            Nama file: for_loop1.py <p>
+                                        Program mencetak angka 1 s/d 10 <p>
 (BERIKUT CODINGANNYA) <p>
 Lalu Klik Run <p> 
 ![gambar 3](screenshot/ss3.png.png) <p>
