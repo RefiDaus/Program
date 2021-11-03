@@ -4,4 +4,7 @@ Menggunkan Aplikasi Pychram <p>
 1. latihan1.py <p>
 (BERIKUT CODINGANNYA) <p>
 
-![img]screensot/ss1.png
+![img]screenshot/ss1.png
+![img]screenshot/ss2.png
+![img]screenshot/ss3.png
+![img]screenshot/ss4.png
